@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graphs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphs">
+				<Option output="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/graphs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 graphs"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphs/fast">
+				<Option output="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/graphs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 graphs/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/cmake-build-debug-wsl-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/colours.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/colours.h">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/dot_writer.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/dot_writer.h">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/graph.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/graph.h">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/main.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/topological_sort.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/topological_sort.h">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/traversal_tester.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/traversal_tester.h">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/visitor.cpp">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/visitor.h">
+			<Option target="graphs"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/d/saxion/ACS/10_A&amp;D/3_Homework/week14/graphs/graphs/tasks.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
